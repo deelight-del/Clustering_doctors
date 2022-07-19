@@ -1,0 +1,438 @@
+"DoctorID","Region","Category","Rank","Incidence rate","R rate","Satisfaction","Experience","Purchases"
+"AHDCBA","4 15","Specialist","Ambassador",49,0.9,"53.85",1.2,49
+"ABHAHF","1 8 T4","General Practitioner","Ambassador",37,0,"100.00",0,38
+"FDHFJ","1 9 T4","Specialist","Ambassador",33,1.53,"--",0,34
+"BJJHCA","1 10 T3","Specialist","Ambassador",28,2.03,"--",0.48,29
+"FJBEA","1 14 T4","Specialist","Ambassador",23,0.96,"76.79",0.75,24
+"BCJCED","1 10","Specialist","Platinum Plus",19,1.2,"-50.00",0.1,20
+"FCGIG","1 8 T3","Specialist","Titanium",18,1.68,"--",0.26,19
+"HFIDE","1 11","Specialist","Ambassador",15,1.19,"--",0.38,16
+"ICBGB","1 12","Specialist","Platinum Plus",15,0.81,"--",0.25,16
+"FCBDC","2 7 19","Specialist","Silver Plus",14,0.07,"--",0.07,14
+"HCIEB","1 19 T4","Specialist","Ambassador",14,1.63,"--",0,30
+"AADIFG","1 10","Specialist","Titanium",14,0.22,"-50.00",0.47,45
+"AICFDG","1 11","Specialist","Titanium",14,0.87,"14.29",0.53,15
+"BJJGJE","2 11","General Practitioner","Gold",14,0.36,"66.67",0.57,14
+"IFDIB","1 19 T3","Specialist","Titanium",13,1.29,"37.50",0.14,14
+"FCDIF","1 11","Specialist","Ambassador",12,0.15,"--",0.62,13
+"FDHGC","1 14","Specialist","Titanium",12,0.85,"--",0.62,13
+"ADDCAB","1 12 T3","Specialist","Platinum Plus",12,0.17,"--",0.25,12
+"BGEEHB","1 8 T3","Specialist","Titanium",12,0.5,"--",0.17,12
+"AHIEIG","1 12","Specialist","Ambassador",11.33,1,"--",0.3,37
+"FBEIF","1 13 T3","Specialist","Titanium",11,1,"100.00",0.09,11
+"ACJAIB","1 14","General Practitioner","Platinum",11,0,"--",0.42,12
+"IBIJD","1 14","Specialist","Ambassador",10,0.7,"50.00",1.1,10
+"AACHCG","1 11","Specialist","Ambassador",10,1.18,"14.71",0.95,22
+"AAHIHJ","1 19","Specialist","Platinum Plus",10,1.91,"75.00",0.27,11
+"AEFEAG","1 19 T3","Specialist","Platinum Plus",10,1.1,"--",0,10
+"AGICFF","1 21 T3","Specialist","Titanium",10,1,"-16.67",0.27,11
+"AHDDAI","1 10","Specialist","Titanium",10,1.45,"46.67",0.18,11
+"BDJHBC","1 11","Specialist","Platinum Plus",10,2.82,"--",2.27,11
+"FJIGJ","1 8 T3","Specialist","Platinum Plus",9,0.78,"81.82",0.44,9
+"FBEHD","2 7 13","Specialist","Gold",9,1.7,"--",0.5,10
+"FDAIE","1 14 T3","Specialist","Ambassador",9,1.67,"10.00",1,9
+"FDCDH","1 12 T4","Specialist","Ambassador",9,0.5,"81.82",0.4,30
+"GHDFB","1 13","Specialist","Silver Plus",9,1.11,"-31.58",0.11,9
+"HFDHG","1 13 T3","Specialist","Platinum Plus",9,1.67,"--",0.89,9
+"HGBDE","1 14 T3","Specialist","Platinum Plus",9,0.2,"--",0.3,10
+"AAFCFD","1 10","Specialist","Ambassador",9,0.3,"71.05",0.7,10
+"AAIJGC","1 19","General Practitioner","Titanium",9,1,"61.54",1.44,9
+"ABJEAI","1 19","Specialist","Ambassador",9,0.9,"-100.00",0.7,10
+"ACIEJG","2 6 13","General Practitioner","Gold Plus",9,0.33,"50.00",0.22,9
+"AFFEHI","1 8 T3","Specialist","Titanium",9,2.1,"-41.18",0,10
+"AGIIBD","1 14 T3","Specialist","Platinum Plus",9,0.67,"100.00",0,9
+"BDFCBA","1 12","Specialist","Platinum",9,0.5,"60.00",0.3,10
+"EIGBH","2 7 13","Specialist","Gold Plus",8,1,"--",0,8
+"EIHEC","2 7 9","Specialist","Gold Plus",8,0.56,"50.00",0,9
+"FAABD","1 13 T3","Specialist","Platinum Plus",8,0.89,"--",0,9
+"FBFGD","1 14 T3","Specialist","Platinum Plus",8,0.5,"81.82",0.13,8
+"FDDDD","1 14","Specialist","Platinum",8,1.11,"--",0.11,9
+"FDDIH","1 14 T3","Specialist","Titanium",8,1.11,"31.58",0.67,18
+"GHCGC","1 19 T3","Specialist","Platinum Plus",8,1.56,"0.00",0,9
+"HCBFF","1 8","Specialist","Platinum Plus",8,1.25,"--",0.25,8
+"HFDHF","1 9","Specialist","Platinum",8,1.11,"94.12",2.56,9
+"AADCEC","1 19","Specialist","Platinum",8,1.88,"--",0.25,8
+"AAGJEF","1 13","Specialist","Platinum",8,1.63,"25.00",0.13,8
+"ACIFIF","1 14 T3","Specialist","Platinum Plus",8,2.11,"--",0.89,9
+"ADFIAF","1 9","Specialist","Titanium",8,1.11,"25.00",1,9
+"AFHBCF","2 11","General Practitioner","Silver Plus",8,0,"100.00",0.5,8
+"AHIHIC","1 10","Specialist","Platinum",8,1.25,"--",0.38,8
+"BJEIBF","2 6 9","General Practitioner","Silver Plus",8,1.38,"0.00",0.75,8
+"CJIFAA","2 7 12","Specialist","Silver",8,1.13,"-25.00",0.5,8
+"CAEBGA","1 12","Specialist","Platinum",8,0.56,"-50.00",0.44,9
+"FBIGI","1 9","Specialist","Ambassador",7.5,2.65,"3.45",0.53,17
+"EHHFF","1 8 T3","Specialist","Titanium",7,1,"--",0.14,7
+"EIDID","1 19","Specialist","Ambassador",7,0.88,"--",1.25,8
+"EIFHE","1 21 T3","Specialist","Ambassador",7,1.5,"--",0.63,8
+"FJGAH","1 13 T3","Specialist","Platinum Plus",7,0.86,"53.85",0.14,7
+"FBHIB","1 10 T3","Specialist","Titanium",7,0.86,"--",0.14,7
+"FCJCC","1 9 T4","Specialist","Ambassador",7,1.69,"--",0.13,16
+"FCJHJ","1 13 T3","Specialist","Platinum Plus",7,0.38,"--",0.13,8
+"FCBIJ","1 9","Specialist","Platinum",7,1.13,"12.50",0.25,8
+"FDIJG","1 8","Specialist","Platinum",7,1.14,"--",0.14,7
+"GDAHJ","1 14","Specialist","Platinum",7,1.13,"23.81",1.19,16
+"HBIGG","1 13 T3","Specialist","Platinum Plus",7,1.63,"68.75",0,8
+"HDFJH","1 14","Specialist","Ambassador",7,1,"17.65",0.5,8
+"ABIGFJ","1 19","General Practitioner","Platinum",7,0,"--",0.29,7
+"ACJHIA","2 6 9","General Practitioner","Silver",7,3.57,"-50.00",1,7
+"ACCBHF","1 13","Specialist","Platinum",7,1,"--",0.43,7
+"ACGACH","1 14","Specialist","Ambassador",7,0.71,"--",0.29,7
+"ADJIHG","17","General Practitioner","Silver Plus",7,0.14,"--",0.71,7
+"AHAHIB","1 14 T3","Specialist","Platinum Plus",7,1.25,"100.00",0.88,8
+"AIBJAH","1 19","Specialist","Ambassador",7,1.5,"55.10",0.13,8
+"BADGEJ","1 14","Specialist","Platinum",7,0.14,"-100.00",0.71,7
+"CCCBCE","1 14 T3","Specialist","Titanium",7,1.29,"--",0.14,7
+"HDBEF","1 14 T4","Specialist","Ambassador",6.6,1.13,"-13.33",0.47,38
+"BABGJG","1 8","Specialist","Ambassador",6.55,1.05,"100.00",0.83,83
+"FBIHE","1 19 T4","Specialist","Ambassador",6.5,1.24,"100.00",0.04,45
+"FBIII","1 8 T4","Specialist","Ambassador",6.5,0.73,"100.00",0,15
+"ACBGIB","1 13 T3","Specialist","Titanium",6.5,0.37,"--",0.17,30
+"AICHFJ","1 14","General Practitioner","Titanium",6.5,1.87,"40.00",1.07,15
+"EIEJB","1 19","Specialist","Platinum",6,1.83,"56.25",1.17,6
+"EIHDC","1 13","Specialist","Platinum",6,0.67,"66.67",0.5,6
+"FJJHH","1 8","Specialist","Gold Plus",6,1.17,"28.57",0.17,6
+"FADGD","1 14 T4","Specialist","Ambassador",6,1,"--",0.67,6
+"FAFIH","1 12","Specialist","Titanium",6,0.33,"50.00",0.14,21
+"FBAHD","1 19","Specialist","Ambassador",6,1.19,"-100.00",0.62,21
+"FBFJB","2 7 13","Specialist","Gold Plus",6,1.29,"--",0.29,7
+"FDDJI","1 9 T3","Specialist","Titanium",6,1.07,"--",2.07,14
+"FDEAE","1 9","Specialist","Platinum",6,1.57,"100.00",1.29,7
+"HBFAA","1 19 T3","Specialist","Platinum Plus",6,1,"50.00",0.14,7
+"ABFBHC","2 6 8","General Practitioner","Silver Plus",6,0,"--",0,6
+"ABHBED","1 19 T4","Specialist","Ambassador",6,1.14,"5.26",0.29,21
+"ADIDAJ","1 13","General Practitioner","Platinum",6,2,"--",1.57,7
+"ADIEIF","1 19","Specialist","Silver",6,0.5,"0.00",0,6
+"AFEHDF","1 8 T4","Specialist","Ambassador",6,0.86,"50.00",0.07,14
+"AHHHEC","1 12","Specialist","Titanium",6,1.21,"60.00",0.36,14
+"AIBJGI","1 8","Specialist","Ambassador",6,1.86,"--",0.21,14
+"AIEDED","1 9","General Practitioner","Titanium",6,0.57,"-100.00",0.57,7
+"BJCHAD","1 10 T3","Specialist","Platinum Plus",6,2.33,"--",0.17,6
+"BJGJBI","1 4CP","Specialist","Titanium",6,0.83,"36.36",0,6
+"BABEFH","1 13","Specialist","Platinum",6,1.29,"--",0.57,7
+"BBAHCA","5 18","Specialist",null,6,3.14,"--",1.43,7
+"BBGEDE","1 9 T3","Specialist","Platinum Plus",6,1.29,"--",0,7
+"BBGFGA","2 11","General Practitioner","Gold",6,1.71,"--",0.43,7
+"BCGHCF","2 7 12","Specialist","Silver Plus",6,0.86,"--",0.71,7
+"CAGHHC","1 13 T3","Specialist","Titanium",6,1.57,"--",0.43,7
+"BJDEHJ","1 12 T3","Specialist","Titanium",5.75,0.26,"100.00",0.48,27
+"AAAEAH","1 19","Specialist","Ambassador",5.67,1.4,"100.00",1.3,20
+"ADGGJB","1 12","Specialist","Platinum Plus",5.5,0.77,"-83.33",0.85,13
+"AGEHHD","1 12","Specialist","Titanium",5.5,2,"--",0.92,13
+"BJDGBB","1 19 T4","General Practitioner","Ambassador",5.25,0.8,"--",0,25
+"EHEEI","4 15","Specialist","Platinum",5,1.8,"--",0.8,5
+"EIDFF","1 9 T3","Specialist","Titanium",5,1.5,"55.17",0.67,6
+"EIDGE","22 18","Specialist","Gold",5,1,"--",0.83,6
+"FJGBD","1 11","Specialist","Ambassador",5,1.33,"-100.00",2,6
+"FAJIB","1 8","Specialist","Titanium",5,1.6,"83.33",0.6,5
+"FAIEE","1 19","Specialist","Platinum Plus",5,1.83,"71.43",0.83,6
+"FBCAF","1 8","Specialist","Platinum",5,0.6,"66.67",0,5
+"FBGCC","2 7 8","Specialist","Gold Plus",5,2,"--",0.17,6
+"FCBDH","1 14","Specialist","Platinum",5,2.2,"58.33",0.6,5
+"FCIJH","1 14","Specialist","Platinum",5,1.6,"100.00",1.4,5
+"FDJBB","1 8","Specialist","Titanium",5,0.17,"--",0.5,6
+"FDDAA","1 9","Specialist","Titanium",5,1,"-17.39",0.83,6
+"FDDHC","1 9","Specialist","Gold Plus",5,0.2,"-66.67",0,5
+"FDFAC","1 13","Specialist","Ambassador",5,0.75,"0.00",0.92,12
+"GHFHE","1 9 T3","Specialist","Titanium",5,2,"100.00",0.4,5
+"HBAHA","1 10 T3","Specialist","Platinum Plus",5,2.2,"97.73",0.8,5
+"HCDJF","2 7 19","Specialist","Silver Plus",5,1.2,"--",0.8,5
+"AJFCDH","1 13","General Practitioner","Titanium",5,0.33,"100.00",0.17,6
+"AABBEB","1 14","Specialist","Platinum",5,1.2,"-100.00",0,5
+"AAGHII","1 9","General Practitioner","Titanium",5,0.17,"-12.50",2.5,6
+"ABAIEG","1 11","General Practitioner","Gold",5,2.6,"75.00",0.8,5
+"ABDHHI","2 6 13","General Practitioner","Gold Plus",5,0.6,"--",0,5
+"ACBBCA","1 9","Specialist","Ambassador",5,0.72,"93.55",0.28,18
+"ACBBGF","1 13","Specialist","Titanium",5,1,"--",1.25,12
+"ADFIEI","1 14","Specialist","Platinum",5,1.17,"--",0.33,6
+"AEGFAA","1 12","General Practitioner","Platinum",5,0.33,"-6.67",1,6
+"AFCADC","1 10","Specialist","Platinum",5,1,"--",0,5
+"AFCGAH","1 14","Specialist","Ambassador",5,0.4,"--",0.4,5
+"AGBHAC","1 11","General Practitioner","Ambassador",5,0.67,"100.00",0,12
+"AHEBBE","2 7 12","Specialist","Gold Plus",5,0.33,"--",0.17,6
+"AIDHHG","1 13","Specialist","Gold Plus",5,0.83,"--",0,6
+"BJCEID","1 8","Specialist","Ambassador",5,1,"-50.00",0.2,5
+"BACHDJ","1 11","Specialist","Ambassador",5,1.17,"100.00",0.5,6
+"BBCHEH","1 9","General Practitioner","Platinum Plus",5,2.2,"-75.00",0.4,5
+"BCECCB","1 11","Specialist","Gold Plus",5,1.5,"--",0,6
+"BCGFDD","1 8 T3","Specialist","Platinum Plus",5,0.2,"--",0.2,5
+"BCHIGJ","2 6 10","General Practitioner","Silver Plus",5,0,"100.00",1.2,5
+"BDAIBI","1 14","Specialist","Platinum",5,1,"--",0.2,5
+"BHIJBJ","2 7 14","Specialist","Gold Plus",5,2.2,"--",0.8,5
+"CCAGCF","2 7 19","Specialist","Gold Plus",5,0.8,"-20.00",0.2,5
+"AGEAHA","1 9","Specialist","Gold Plus",4.75,0,"100.00",0.61,23
+"FAFEG","22 18","Specialist","Gold Plus",4.5,1.82,"89.47",0.64,11
+"FAICB","1 19","Specialist","Ambassador",4.5,0.97,"--",0.76,33
+"HJCDC","1 8 T3","Specialist","Titanium",4.5,0.73,"--",0.09,11
+"HJDFA","1 9","Specialist","Ambassador",4.5,1.14,"-33.33",0.36,44
+"AAEIEG","1 8 T3","Specialist","Titanium",4.5,1.64,"-50.00",0.18,11
+"GDGFF","1 14 T3","Specialist","Titanium",4.4,1.15,"7.14",0.7,27
+"ABCGFA","1 12","Specialist","Ambassador",4.4,0.19,"--",1,27
+"AFDEJE","1 10","General Practitioner","Ambassador",4.33,0.69,"-29.41",0.81,16
+"BGAHGD","1 9 T3","Specialist","Titanium",4.33,0.63,"--",0,16
+"HIFAE","1 9","Specialist","Ambassador",4.2,0.23,"--",0.35,26
+"HCHIJ","1 9 T4","Specialist","Ambassador",4.1,0.82,"33.33",0.02,51
+"EHECC","2 7 14","Specialist","Gold Plus",4,1.25,"--",0.25,4
+"EIJGE","1 19","Specialist","Ambassador",4,1.3,"--",0.7,20
+"EICEC","1 13","Specialist","Gold Plus",4,0.75,"94.44",1.25,4
+"EIFEG","2 7 19","Specialist","Silver Plus",4,0.2,"--",0,5
+"EIHDD","2 7 19","Specialist","Gold Plus",4,0.8,"-100.00",0,5
+"FJBGJ","1 19","Specialist","Platinum",4,1.5,"-5.88",1.25,4
+"FJFFA","2 11","Specialist","Gold Plus",4,0.5,"--",0,4
+"FAGIE","1 10","Specialist","Ambassador",4,0.5,"30.77",0.75,4
+"FBHBI","1 8","Specialist","Platinum Plus",4,1,"100.00",0,5
+"FCJCH","1 21 T4","Specialist","Ambassador",4,1,"90.48",0,4
+"FCGBJ","1 9","Specialist","Platinum",4,0.6,"--",0,5
+"FCGCI","1 9","Specialist","Platinum",4,0.2,"100.00",1.2,5
+"FCGDF","1 13","Specialist","Titanium",4,1.47,"37.50",0.6,15
+"FCIII","2 7 10","Specialist","Gold Plus",4,1.2,"-90.91",0.2,10
+"FDHBD","1 9","Specialist","Platinum",4,0.6,"--",0,5
+"GDGGA","1 19","Specialist","Platinum",4,1,"-16.67",0.2,5
+"GHFAG","1 9 T4","Specialist","Ambassador",4,0.2,"--",0.2,5
+"HCAIC","1 13","Specialist","Ambassador",4,1.1,"100.00",0.28,40
+"HCGDD","1 9 T3","Specialist","Ambassador",4,0.5,"--",0,4
+"HCIGF","1 19 T3","Specialist","Titanium",4,1.2,"--",0.2,10
+"HIDEF","1 8","Specialist","Ambassador",4,0.5,"37.04",0,10
+"IBIAH","1 9","Specialist","Platinum Plus",4,0,"--",0.25,4
+"IHCIH","1 12","Specialist","Ambassador",4,1.25,"--",0.25,4
+"AJBGGI","1 19","Specialist","Platinum",4,1,"-100.00",0.6,5
+"AJCAGD","1 11","General Practitioner","Platinum Plus",4,0.4,"0.00",0.4,5
+"AJCBFE","1 12","Specialist","Titanium",4,0.8,"69.57",0.4,5
+"AJGICE","1 19","Specialist","Ambassador",4,0.75,"28.57",1,4
+"AJHDJB","1 10","Specialist","Platinum Plus",4,1.25,"-41.18",0.25,4
+"AJHIHH","2 7 9","Specialist","Gold Plus",4,1.5,"--",0,4
+"AJICGD","1 14 T3","Specialist","Platinum Plus",4,3,"-12.50",0.2,5
+"AABGAB","1 8 T3","Specialist","Platinum Plus",4,2,"--",0.75,4
+"AADDIG","1 9 T3","Specialist","Titanium",4,0.6,"--",0,5
+"AAHIHB","2 11","Specialist","Gold Plus",4,2.75,"11.11",0.75,4
+"ABCEFF","2 6 12","General Practitioner","Gold Plus",4,0,"66.67",0.2,5
+"ABIGIB","1 13","General Practitioner","Ambassador",4,0.75,"75.00",1.25,4
+"ACFFFF","1 14","Specialist","Platinum",4,3.25,"38.46",0.75,4
+"ADBEEF","1 14","Specialist","Titanium",4,1,"-20.00",1,4
+"ADGAIC","1 13 T3","Specialist","Titanium",4,1,"--",0,4
+"ADHACC","1 9","Specialist","Platinum",4,1.5,"--",0,4
+"ADICBB","2 7 19","Specialist","Silver Plus",4,0,"--",0.5,4
+"AEEDGJ","1 13","General Practitioner","Titanium",4,0.5,"90.91",0.25,4
+"AFDBEF","1 13","Specialist","Gold Plus",4,1.25,"--",0.25,4
+"AFEHJH","1 8","Specialist","Gold Plus",4,1.5,"0.00",0.75,4
+"AFIFCC","1 11","Specialist","Titanium",4,1,"62.07",0.2,5
+"AGFGJH","2 7 13","Specialist","Silver Plus",4,0.3,"--",0.7,10
+"AHABIB","5 18","General Practitioner",null,4,1,"83.33",2,4
+"AHCAFI","22 18","Specialist","Ambassador",4,0.75,"--",1,4
+"AIFAIJ","1 10","Specialist","Platinum",4,0.25,"53.85",0,4
+"BJCFGJ","1 13","General Practitioner","Titanium",4,0.5,"-53.85",0.25,4
+"BJDEGI","2 7 19","Specialist","Gold Plus",4,3,"--",0.4,5
+"BABEFF","1 8","Specialist","Platinum",4,0.8,"--",0.8,5
+"BBFDCG","2 7 9","Specialist","Gold Plus",4,0,"-100.00",0,4
+"BBGJJA","2 6 19","General Practitioner","Gold",4,0.25,"--",0.25,4
+"BCFJAB","1 13","Specialist","Platinum",4,1.4,"-20.00",0.4,5
+"BCGGFB","2 7 19","Specialist","Silver Plus",4,0.4,"--",1.2,5
+"BDDCCJ","1 14 T4","Specialist","Ambassador",4,0.8,"66.67",0.7,10
+"BHCADG","1 9","Specialist","Platinum",4,1,"--",0.2,5
+"FBJHB","1 14 T3","Specialist","Titanium",3.83,0.55,"66.67",0.34,29
+"EIAHC","1 14","Specialist","Ambassador",3.67,1.93,"86.21",2.57,14
+"FAGBJ","3 16","Specialist","Ambassador",3.67,0.21,"--",1.07,14
+"FBJIB","1 14","Specialist","Platinum Plus",3.67,1.14,"-33.33",0.93,14
+"HCDHE","1 10","Specialist","Platinum",3.67,1.57,"0.00",0.43,14
+"BAEEJB","1 19 T4","Specialist","Ambassador",3.6,2.61,"--",0.87,23
+"EICFE","1 10 T3","Specialist","Titanium",3.5,1.22,"60.00",0.78,9
+"FBAHB","1 19 T3","Specialist","Ambassador",3.5,0.33,"--",0,9
+"FCFJF","1 19","Specialist","Gold Plus",3.5,1.22,"100.00",0.22,9
+"FDHAJ","1 13","Specialist","Platinum",3.5,1.56,"-11.76",0.67,9
+"HDFGG","1 12","Specialist","Ambassador",3.5,0.67,"100.00",1.67,9
+"IJDHE","1 11","Specialist","Ambassador",3.5,1.33,"--",0.78,18
+"ABECJH","1 14","General Practitioner","Platinum Plus",3.5,1.33,"75.00",0.22,9
+"ADEIBA","1 19","Specialist","Ambassador",3.5,0.67,"--",0.11,9
+"AEBDAB","1 13","Specialist","Ambassador",3.5,0.44,"100.00",1.22,9
+"BCGHBE","1 8","Specialist","Platinum Plus",3.5,2.11,"--",1.11,9
+"CJFIHG","2 7 12","Specialist","Gold Plus",3.5,0.22,"--",0.11,9
+"EIBIE","1 19 T3","Specialist","Ambassador",3.33,0.92,"65.00",0,13
+"EICFJ","1 19 T3","Specialist","Ambassador",3.33,1.23,"-100.00",0.46,13
+"FJAJH","1 14","Specialist","Ambassador",3.33,1.5,"10.71",0.63,52
+"FJG","1 13 T3","Specialist","Titanium",3.33,2,"28.57",0.23,13
+"FCBJC","1 12","Specialist","Ambassador",3.33,0.62,"100.00",0.54,13
+"GDGHI","1 12","Specialist","Ambassador",3.33,0.38,"--",0.15,26
+"ABCGDJ","1 13","Specialist","Platinum",3.33,0.46,"--",0.08,13
+"BCGHCE","1 12 T3","Specialist","Platinum Plus",3.33,1.69,"44.44",1,13
+"HBBCA","1 12","Specialist","Titanium",3.25,1.65,"83.33",0.29,17
+"ADHBHG","1 9","Specialist","Ambassador",3.25,1.24,"--",0.59,17
+"EHDCH","1 14","Specialist","Platinum Plus",3,0.25,"--",0.25,4
+"EHDDC","2 7 13","Specialist","Silver Plus",3,0.67,"-66.67",0,3
+"EHEGI","1 8","Specialist","Platinum",3,1.5,"--",0.25,4
+"EHIIF","1 8 T3","Specialist","Ambassador",3,0.88,"0.00",0.13,8
+"EIBJG","1 19 T3","Specialist","Platinum Plus",3,1.13,"--",0.88,24
+"EIBAF","1 14","Specialist","Platinum",3,1,"41.67",0.33,3
+"FJAGH","1 19","Specialist","Platinum Plus",3,1.58,"87.50",0.92,12
+"FJAIF","2 7 13","Specialist","Gold Plus",3,1.75,"--",0.5,8
+"FJEEE","2 7 19","Specialist","Gold Plus",3,0.67,"--",0.33,3
+"FJFJJJJJJJ","2 7 9","Specialist","Silver Plus",3,0,"--",0.33,3
+"FAJGG","1 13","Specialist","Platinum",3,1.33,"65.22",0,3
+"FABAI","1 19","Specialist","Titanium",3,1.75,"100.00",0,8
+"FAGEH","1 10","Specialist","Ambassador",3,1.38,"12.50",0.28,32
+"FAICE","1 9","Specialist","Ambassador",3,2.5,"--",0.5,24
+"FBJBG","1 9 T3","Specialist","Titanium",3,0.67,"88.89",0.33,3
+"FBEAF","22 18","Specialist","Gold Plus",3,0,"--",0.25,4
+"FBFJH","1 13","Specialist","Ambassador",3,0.67,"87.50",0,3
+"FBFHB","2 7 14","Specialist","Gold Plus",3,4.25,"--",1.5,4
+"FBHDC","2 7 8","Specialist","Gold Plus",3,1.67,"0.00",0.33,3
+"FBHEA","1 14","Specialist","Platinum",3,1.25,"--",1.25,4
+"FCJDB","2 7 14","Specialist","Silver Plus",3,1,"--",1,3
+"FCCFD","2 7 14","Specialist","Gold Plus",3,0.67,"--",0.33,3
+"FCDEJ","1 12","Specialist","Platinum",3,0,"--",0.67,3
+"FCDID","1 9","Specialist","Platinum",3,1.25,"41.18",0,4
+"FCDIG","1 13 T3","Specialist","Gold",3,1.67,"--",0,3
+"FCEDH","1 13","Specialist","Titanium",3,0.69,"--",0.63,16
+"FCGBA","1 13","Specialist","Platinum",3,1.25,"--",1,4
+"FCGHC","1 9","Specialist","Platinum",3,1.75,"25.00",0.5,4
+"FCHBE","22 18","Specialist","Gold",3,0.13,"--",1,8
+"FCIIJ","2 7 14","Specialist","Silver Plus",3,0.33,"100.00",0.33,3
+"FDJAF","1 8","Specialist","Platinum",3,1.75,"43.75",0.25,4
+"FDAAB","1 19","Specialist","Platinum",3,2.25,"33.33",0,4
+"FDGBC","1 8","Specialist","Titanium",3,2,"60.00",0.75,4
+"GCIHA","1 11","Specialist","Ambassador",3,3,"27.27",1.5,4
+"GDJBG","2 7 9","Specialist","Gold Plus",3,2,"100.00",0.25,4
+"GDDJA","1 14 T3","Specialist","Platinum Plus",3,1.25,"-6.25",0.75,4
+"GDHEC","22 18","Specialist","Gold",3,2.33,"-100.00",1,3
+"GDIGD","1 19","Specialist","Titanium",3,0.38,"-20.00",0.75,8
+"GEJFE","2 7 10","Specialist","Silver Plus",3,3,"--",0.75,4
+"GGBFD","1 21 T3","Specialist","Ambassador",3,3.33,"--",0,3
+"GGCCD","2 7 9","Specialist","Silver Plus",3,0.33,"-25.00",0,3
+"GGCDI","1 9","Specialist","Platinum Plus",3,1.75,"0.00",0.25,4
+"GGDEA","1 19","Specialist","Titanium",3,2,"-50.00",0.67,3
+"GGFAG","1 14","Specialist","Platinum Plus",3,1,"--",0.67,3
+"GGHAA","1 13","Specialist","Platinum",3,1.67,"100.00",1,3
+"GIEAH","1 8 T4","Specialist","Ambassador",3,0.95,"12.50",0,20
+"HBIEA","2 7 19","Specialist","Silver Plus",3,1,"--",0.33,3
+"HCACA","2 7 19","Specialist","Silver Plus",3,0.67,"--",0,3
+"HCCJG","2 7 19","Specialist","Gold",3,2.33,"25.00",0.67,3
+"HCCIE","1 9","Specialist","Platinum",3,1.75,"60.00",0.63,8
+"HCGFC","1 19 T3","Specialist","Platinum Plus",3,1.13,"--",0.38,8
+"HDJCD","1 19","Specialist","Platinum",3,2.33,"100.00",0.67,3
+"HEEIF","2 7 19","Specialist","Silver Plus",3,0,"--",0,3
+"HFHII","1 9 T4","Specialist","Ambassador",3,1.42,"74.47",5.42,12
+"HGGAF","1 13","Specialist","Platinum",3,0,"--",0.33,3
+"IABCA","1 13","Specialist","Ambassador",3,1.31,"71.43",0.31,16
+"IDFHH","1 9","Specialist","Platinum",3,2.33,"11.76",1,3
+"IDIAG","1 10","Specialist","Titanium",3,1,"--",0.75,4
+"IGFGA","1 14 T3","Specialist","Platinum Plus",3,3.33,"--",1,3
+"IIDBD","17","General Practitioner","Gold",3,0.33,"--",0,3
+"AJACEB","2 6 8","General Practitioner","Silver Plus",3,1,"--",0,4
+"AJBEFA","1 8","Specialist","Platinum",3,0.38,"-100.00",0,8
+"AJDBBA","2 6 13","General Practitioner","Gold",3,0.33,"--",0.33,3
+"AJEFEG","1 12","Specialist","Platinum Plus",3,0.5,"83.33",0.5,4
+"AJFBID","17","General Practitioner","Silver Plus",3,0,"--",0.33,3
+"AABAAC","17","General Practitioner","Silver Plus",3,0.33,"--",0.33,3
+"ABBBGD","2 6 13","General Practitioner","Silver Plus",3,0,"--",0.67,3
+"ABCAFG","5 18","Specialist","Gold Plus",3,2.5,"--",1,4
+"ABEAFF","1 8 T4","Specialist","Ambassador",3,0.63,"23.08",0,8
+"ABHGCJ","2 7 8","Specialist","Gold",3,1,"100.00",0,3
+"ABICJC","2 6 19","General Practitioner","Gold",3,1,"--",0.33,3
+"ACJADJ","2 7 12","Specialist","Gold Plus",3,1,"-100.00",1,4
+"ACDBJE","1 8 T4","Specialist","Ambassador",3,0.81,"80.00",0,16
+"ACEHEG","2 7 12","Specialist","Gold Plus",3,2,"33.33",0.67,3
+"ACFJEF","1 11","General Practitioner","Platinum",3,0,"--",3,3
+"ACGIJH","2 7 10","Specialist","Silver Plus",3,0.88,"-50.00",1.5,8
+"ACHADI","2 7 14","Specialist","Silver Plus",3,0,"--",1,3
+"ACHCAG","1 8","Specialist","Platinum",3,1.38,"14.29",0.25,8
+"ADBJFE","2 6 12","General Practitioner","Gold",3,0,"-100.00",1,3
+"ADCAEI","2 6 8","General Practitioner","Silver Plus",3,0,"--",0,3
+"ADEFFC","1 11","General Practitioner","Platinum",3,0.75,"100.00",1,4
+"ADFECC","2 7 9","Specialist","Gold Plus",3,1.33,"90.00",1,3
+"ADIJBE","2 11","Specialist","Silver Plus",3,1.67,"66.67",0,3
+"ADIFBD","1 19 T3","Specialist","Platinum Plus",3,1,"28.57",0,3
+"AEEJCH","17","General Practitioner","Gold Plus",3,0.13,"100.00",0.38,8
+"AEFJHG","2 7 10","Specialist","Gold",3,1,"37.50",0.33,3
+"AFBJIE","2 6 19","General Practitioner","Silver Plus",3,0.75,"33.33",0.5,4
+"AFCEGG","2 7 9","Specialist","Gold Plus",3,1.33,"--",0,3
+"AFEHCG","2 6 14","General Practitioner","Silver Plus",3,0,"--",1.33,3
+"AFFCCA","2 6 12","General Practitioner","Silver Plus",3,1.25,"37.50",0.75,4
+"AFICJC","1 19","Specialist","Platinum",3,1,"-100.00",0.33,3
+"AGBJFF","1 19","General Practitioner","Platinum",3,0.5,"--",0,4
+"AGCDEJ","2 6 9","General Practitioner","Silver Plus",3,0.25,"--",1,4
+"AGDFDJ","1 9","Specialist","Platinum",3,1.75,"--",0.5,4
+"AHCFGJ","2 6 19","General Practitioner","Gold Plus",3,2,"--",0,3
+"AHGDBD","4 15","Specialist","Ambassador",3,1.19,"--",0.06,16
+"AHGGFF","2 7 8","Specialist","Gold Plus",3,1,"-100.00",0.75,4
+"AHHEGJ","2 6 12","General Practitioner","Silver Plus",3,1.25,"--",0.25,4
+"AHIAEA","2 6 19","General Practitioner","Silver Plus",3,1,"--",1,4
+"AHIBDA","2 6 9","General Practitioner","Silver Plus",3,0.33,"--",0,3
+"AIBEEA","2 6 14","General Practitioner","Silver Plus",3,0,"--",5.33,3
+"AIEBFJ","2 7 10","Specialist","Gold",3,0,"-100.00",1,4
+"AIEBFD","1 8 T3","Specialist","Titanium",3,1.25,"--",0.5,8
+"AIFDCI","2 6 9","General Practitioner","Silver Plus",3,0,"-100.00",0,4
+"BJDFFJ","2 11","General Practitioner","Gold",3,0.25,"100.00",0,4
+"BJEACG","1 11","General Practitioner","Platinum",3,0.75,"--",0.25,4
+"BJGCHG","1 14","Specialist","Platinum Plus",3,0.67,"50.00",1,3
+"BAJCJJ","2 7 10","Specialist","Gold Plus",3,1,"100.00",0.75,4
+"BABGCI","1 9","Specialist","Gold Plus",3,4.25,"25.00",0.25,4
+"BACJAD","2 6 8","General Practitioner","Gold",3,0,"--",0,4
+"BACJCC","1 8","General Practitioner","Platinum",3,1,"100.00",0,4
+"BACAGE","1 19 T4","Specialist","Ambassador",3,1.42,"--",0.38,24
+"BBBFHC","2 11","General Practitioner","Silver Plus",3,0,"100.00",1,3
+"BBBFHH","1 11","General Practitioner","Ambassador",3,0.75,"100.00",0.25,4
+"BCGGDI","2 7 19","Specialist","Gold",3,1.75,"--",0.25,4
+"BDGBAA","1 13","Specialist","Platinum",3,2.25,"--",0.75,4
+"BDGCAB","17","General Practitioner","Gold",3,0,"--",0.33,3
+"BDGHAH","2 6 12","General Practitioner","Silver Plus",3,0,"--",0.33,3
+"BDHEJE","2 6 13","General Practitioner","Silver Plus",3,0.25,"--",1,4
+"BEAGDA","1 12","General Practitioner","Ambassador",3,2.33,"-33.33",1,3
+"BEDIAF","1 14","General Practitioner","Platinum",3,0.88,"--",0.88,8
+"BFADBF","2 6 13","General Practitioner","Gold Plus",3,0,"--",2,3
+"BFIBIE","2 11","Specialist","Gold",3,0.5,"--",0,4
+"BGABAC","2 7 10","Specialist","Silver Plus",3,1,"-75.00",1.33,3
+"BHJBFE","22 18","Specialist","Silver Plus",3,1.88,"--",0.25,8
+"IACHF","1 14","Specialist","Ambassador",2.89,1.51,"88.89",0.89,35
+"EIFEJ","1 9 T4","Specialist","Ambassador",2.86,0.81,"--",0,27
+"FAFFH","1 12 T3","Specialist","Platinum Plus",2.83,1.57,"--",0.57,23
+"FDBFC","1 8","Specialist","Ambassador",2.83,1.09,"100.00",0.48,23
+"FAJBA","1 13","Specialist","Ambassador",2.8,1.47,"48.57",0.53,19
+"BDFHAC","1 14 T3","Specialist","Titanium",2.8,0.53,"--",0.37,19
+"FDDHA","1 12","Specialist","Ambassador",2.78,1.12,"--",0.94,34
+"FDGCE","1 11","Specialist","Ambassador",2.75,1.03,"0.00",1.13,30
+"IDBDE","1 12 T4","Specialist","Ambassador",2.75,0.93,"--",0.07,15
+"GDADF","1 14","Specialist","Ambassador",2.69,1.35,"66.67",0.79,48
+"FJDEA","1 10 T3","Specialist","Platinum Plus",2.67,1.18,"--",0.91,11
+"FBHHI","1 10 T3","Specialist","Platinum",2.67,2.18,"70.00",0.64,11
+"GIHBE","1 8 T3","Specialist","Titanium",2.67,3,"--",0,11
+"HBDID","1 19 T4","Specialist","Ambassador",2.67,1.27,"-33.33",0.05,22
+"BAFIJH","1 11","Specialist","Ambassador",2.67,1.64,"-29.17",2.09,11
+"GDJGB","1 21 T4","Specialist","Ambassador",2.6,1.17,"20.00",0.33,18
+"FDHDI","1 12","Specialist","Ambassador",2.56,0.72,"5.88",0.16,32
+"FAHDI","1 14","Specialist","Ambassador",2.55,0.85,"0.00",0.82,39
+"EHHCB","1 19 T3","Specialist","Platinum",2.5,2.86,"--",0,7
+"EHHGF","1 12 T3","Specialist","Titanium",2.5,1.86,"-100.00",0.57,7
+"FJEEA","1 19","Specialist","Platinum",2.5,1.29,"27.27",0,7
+"FAACH","1 13","Specialist","Ambassador",2.5,0.14,"100.00",0.43,7
+"FAHJJ","1 9 T3","Specialist","Titanium",2.5,0.57,"40.00",0.14,7
+"FAICH","1 9","Specialist","Ambassador",2.5,1.14,"85.96",0.64,14
+"FCFCJ","1 8 T3","Specialist","Titanium",2.5,1.61,"--",0.18,28
+"FDEIA","2 7 8","Specialist","Gold Plus",2.5,2.57,"60.00",0.57,7
+"GDFHE","1 12","Specialist","Platinum Plus",2.5,1.57,"-26.32",0.29,7
+"AABCGD","1 14","Specialist","Gold Plus",2.5,1.57,"-33.33",1.14,7
+"ABDJAA","23 3","Specialist","Titanium Plus",2.5,1.64,"--",4.07,14
+"ADJHAB","1 12 T3","Specialist","Titanium",2.5,0.57,"--",0,7
+"BJBFJC","1 9 T3","Specialist","Platinum Plus",2.5,1.14,"64.71",0.71,7
+"FCABB","1 9","Specialist","Ambassador",2.4,1.41,"100.00",0.35,17
+"EIEJD","1 11","Specialist","Platinum",2.33,1.5,"100.00",0.2,10
+"FJDAD","1 19","Specialist","Ambassador",2.33,0.8,"42.86",0.3,10
+"FBIHF","1 8 T3","Specialist","Platinum",2.33,1.4,"-33.33",0.3,10
+"FCDBG","1 12","Specialist","Ambassador",2.33,1.05,"87.10",1,20
+"FCHHD","1 14 T3","Specialist","Platinum Plus",2.33,1.4,"--",0.5,10
+"GGCCG","1 19","Specialist","Platinum",2.33,1.3,"--",0.6,10
+"AJJHDH","1 13","General Practitioner","Ambassador",2.33,1.7,"100.00",1,10
+"AJCACF","1 13 T4","Specialist","Ambassador",2.33,0.63,"83.33",0.13,30
+"AABDHC","1 13","Specialist","Titanium",2.33,2.3,"31.82",0.6,10
+"AAEAAJ","1 9 T3","Specialist","Platinum Plus",2.33,1.6,"-22.22",0.7,10
+"AAHAEH","1 11","General Practitioner","Ambassador",2.33,0.45,"0.00",0.55,20
+"AFJFJB","1 14","Specialist","Gold Plus",2.33,0.8,"-100.00",0.7,10
+"IAEBD","1 19 20","Specialist","Ambassador",2.31,1.29,"84.29",1.09,129
+"FBJHH","1 10 T3","Specialist","Titanium",2.25,1.08,"-33.33",0.38,13
+"FCFFF","1 19 T3","Specialist","Titanium",2.25,1.69,"-13.33",0.23,13
+"AEFJCG","1 10","Specialist","Platinum",2.25,1.54,"40.00",0.23,13
+"AHDFJE","1 11","Specialist","Titanium",2.25,0.92,"100.00",0.92,13
+"BABIEG","1 21 T3","Specialist","Platinum",2.25,0.23,"-33.33",0,13
+"HGAFG","1 19 T4","Specialist","Ambassador",2.2,0.88,"--",0.06,16
+"AIABDJ","1 10","Specialist","Ambassador",2.18,0.8,"11.76",0.77,35
+"BBAJCF","1 9 T4","Specialist","Ambassador",2.17,1.68,"--",0.11,19
+"GGCFB","1 19 T4","Specialist","Ambassador",2.14,0.77,"--",0.27,22
+"FDCEG","1 9","Specialist","Ambassador",2.13,0.84,"100.00",0.32,25
+"EIEIB","1 13","Specialist","Ambassador",2.05,1.56,"11.11",0.39,64

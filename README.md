@@ -52,7 +52,7 @@ The dataset can be found and downloaded from the data folder in this repo.
 ## Kprototype algorithm notebook
 
 > The Kprototype algorithm notebook contains the EDA performed on the datasets
-and the key insights obtained are as followw
+and the key insights obtained are as follow
 
 - The histogram distribution of doctors purchases revealed to us that the most single
 purchase occurred at around 4 - 6 purchases at once. And, although we expected that as the number of doctors increased in 
@@ -64,8 +64,8 @@ seemingly a normal distribution where the maximum number of complaints received 
 of purchaes made.
 
 > When we eventually go ahead to use the Kprototype algorithm which is relevant for both categorical and numerical 
-features, we settled with using 4 clusters as a hyperparameter settings because of explicability and clarity of
-each clusters. The clusters going from 0 to 3 have the following characteristics:
+features, we settled with using 5 clusters as a hyperparameter settings because of explicability and clarity of
+each clusters. The clusters going from 0 to 4 have the following characteristics:
 
 **Cluster 0**: They have most of their mean purchases around 10+ but their ambassador ranking personnel have a mean purchase of close to 30. However this particular cluster have the highest complaints among all other clusters, which is significantly higher than all other clusters. The ranking do no begin at silver, it rather begins at gold and goes all the way to Ambassaor, skipping Titanium plus.
 
@@ -88,4 +88,4 @@ the internal ranking features or not including the internal ranking system. Base
 the error metric is generated and some important plots for defining the number of clusters formed is automatically plotted.
 
 Yours' Sincerely
-deelight-del
+deelight-delsss
